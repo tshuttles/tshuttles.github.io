@@ -1,11 +1,11 @@
 # Site settings
-author: Tachi Shuttlesworth
-title: 
+author: Tachi Shuttlesworth 
+title: Tachi's Blog
 header-img: img/home-bg.png
 email: tshuttlesworth@gmail.com
-copyright_name: Tachi Shuttlesworth
+copyright_name: Tachi Shuttlesworth 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron School Blogs
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tshuttles

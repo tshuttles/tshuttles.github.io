@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Project #1 - Banff Attraction CLI"
+title:      "Project #1 - Banff Attractions CLI"
 date:       2019-05-20 01:24:10 -0400
 permalink:  formatted_like_this
 ---

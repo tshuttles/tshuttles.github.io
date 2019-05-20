@@ -1,11 +1,10 @@
 ---
 layout: post
-title:      "formatted like this"
-date:       2019-05-20 05:24:09 +0000
+title:      "Project #1 - Banff Attraction CLI"
+date:       2019-05-20 01:24:10 -0400
 permalink:  formatted_like_this
 ---
 
-**Project #1 - Banff Attraction CLI **
 
 
 

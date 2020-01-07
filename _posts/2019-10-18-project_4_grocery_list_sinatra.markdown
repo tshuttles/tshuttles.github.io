@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Project #4: Grocery List Sinatra "
-date:       2019-10-19 03:53:28 +0000
+title:      "Project #2: Grocery List - Sinatra "
+date:       2019-10-18 23:53:28 -0400
 permalink:  project_4_grocery_list_sinatra
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project #3: League of Champions - Rails"
-date:       2020-01-08 07:01:33 +0000
+date:       2020-01-08 02:01:34 -0500
 permalink:  project_3_league_of_champions_-_rails
 ---
 

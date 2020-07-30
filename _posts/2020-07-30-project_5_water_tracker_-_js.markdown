@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "Project #5: Water Tracker - JS"
+date:       2020-07-30 06:14:06 +0000
+permalink:  project_5_water_tracker_-_js
+---
+
+
+I have finally reached the end of my Flatiron School journey with the completion of my final project. I made an application called Water Tracker, which, you guessed it, tracks the user's water consumption as they make their entries throughout their days. The purpose of the application is to enlighten consumers on how little water they actually drink, due to healthy levels of water consumption being much higher than most people realize. Water is the single most important aspect of life and is how life is even possible in the first place. With this application, I hope to positively influence the lives of many people by helping them reach their water consumption goals. Now, let us get into the development process.
+
+With this react/redux project, the most trouble I had was keeping track of so many moving parts. These things were the actions, reducers, state, store, components, containers, etc. Basically, what makes React and Redux so special. But once I began to get the hang of executing the Redux flow (action -> reducer -> updated state -> action and repeat), the development of the project began to go a lot more smoothly. Although I did not create an overly complicated project, this still took significant time. I found myself frequently going back to the documentation to hammer in simple concepts, such as 'react-router', the spread operator, and destructuring (for clarity and the DRY coding principle, which stands for 'do not repeat yourself'). 
+
+Once I understood Redux flow, my other main challenge was handling the data between the frontend and backend. Coding my asynchronous actions and sending the correct data that my server was expecting was the most frustrating part of the development process. I was seemingly always using the debugger tool to figure out what exactly was going on behind the scenes. For example, my server was expecting to receive an object with a key value of another object, but I was only sending the base object. This code actually did work for a while, but eventually it broke my application so I had to scramble to figure out why. 
+
+I've created a mostly simple application, but putting weeks of lessons into practice is never an easy transition. Bugs and errors always show up unexpectedly and it feels like code nevers works 100% correctly in the first implementation. Before I had started the development of this application, I thought I had a pretty decent grasp of how React and Redux work. I was wrong. I had to reteach myself several core concepts. After the completion, I think I'd be able to produce another and better project with my newfound skills and knowledge of completely building something from the ground up.

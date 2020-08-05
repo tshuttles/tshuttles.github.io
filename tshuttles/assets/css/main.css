@@ -2924,23 +2924,23 @@ input, select, textarea {
 		}
 
 		header > h1 + p {
-			font-size: 1.2rem;
+			font-size: 1.1rem;
 			margin-top: -0.5rem;
 			line-height: 2;
 		}
 
 		header > h2 + p {
-			font-size: 1.1rem;
-			margin-top: -0.75rem;
-		}
-
-		header > h3 + p {
 			font-size: 1rem;
 			margin-top: -0.75rem;
 		}
 
-		header > h4 + p {
+		header > h3 + p {
 			font-size: 0.9rem;
+			margin-top: -0.75rem;
+		}
+
+		header > h4 + p {
+			font-size: 0.8rem;
 			margin-top: -0.75rem;
 		}
 
